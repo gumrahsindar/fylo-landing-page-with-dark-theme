@@ -8,16 +8,13 @@ const Header = () => {
   // Function to toggle the theme
   const toggleTheme = () => {
     setDarkMode(!darkMode)
-  }
 
-  // Effect to apply the theme class to the root element when the component mounts
-  useEffect(() => {
-    const root = document.querySelector('html')!
-    root.classList.add(darkMode ? 'dark' : 'light')
-    return () => {
-      root.classList.remove('dark', 'light')
+    const root = document.querySelector('html')
+    if (root) {
+      root.classList.toggle('dark')
+      root.classList.toggle('light')
     }
-  }, [darkMode])
+  }
 
   return (
     <header className="container mx-auto mt-10 h-40 px-6 text-center md:h-20">
