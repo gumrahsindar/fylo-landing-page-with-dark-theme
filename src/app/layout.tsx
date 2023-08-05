@@ -1,3 +1,4 @@
+import Header from '@/components/Header'
 import './globals.css'
 import type { Metadata } from 'next'
 import { Raleway, Open_Sans } from 'next/font/google'
@@ -13,7 +14,10 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${raleway.variable} ${open_sans.variable}`}>
-      <body>{children}</body>
+      <body className="font-open_sans dark:bg-darkBlue dark:text-white">
+        <Header />
+        {children}
+      </body>
     </html>
   )
 }
