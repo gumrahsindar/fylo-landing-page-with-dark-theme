@@ -1,3 +1,5 @@
+// Components
+import EarlyAccess from '@/components/EarlyAccess'
 import Features from '@/components/Features'
 import Hero from '@/components/Hero'
 import Productive from '@/components/Productive'
@@ -10,6 +12,7 @@ export default function Home() {
       <Features />
       <Productive />
       <Testimonials />
+      <EarlyAccess />
     </main>
   )
 }
