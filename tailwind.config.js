@@ -25,8 +25,8 @@ module.exports = {
       backgroundImage: (theme) => ({
         'logo-dark-mode': "url('/logo-dark-mode.svg')",
         'logo-light-mode': "url('/logo-light-mode.svg')",
-        'curvy-light-mode': "url('/bg-curvy-dark-mode.svg')",
-        'curvy-dark-mode': "url('/bg-curvy-light-mode.svg')",
+        'curvy-light-mode': "url('/bg-curvy-light-mode.svg')",
+        'curvy-dark-mode': "url('/bg-curvy-dark-mode.svg')",
       }),
     },
   },
