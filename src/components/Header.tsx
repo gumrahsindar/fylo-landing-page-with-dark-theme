@@ -22,10 +22,10 @@ const Header = () => {
       <div className="left-10 top-10 mx-auto h-20 w-48 bg-logo-light-mode bg-no-repeat dark:bg-logo-dark-mode md:absolute md:mx-0"></div>
       {/* Menu */}
       <div className="right-10 top-12 flex items-center justify-center space-x-4 md:absolute md:space-x-10">
-        <Link className="hover:text-accentCyan" href={`#features`}>
+        <Link className="link-hover" href={`#features`}>
           Features
         </Link>
-        <Link className="hover:text-accentCyan" href={`#testimonials`}>
+        <Link className="link-hover" href={`#testimonials`}>
           Testimonials
         </Link>
 

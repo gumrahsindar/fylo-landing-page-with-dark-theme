@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.link-hover {
+  @apply duration-200 hover:text-accentCyan;
+}
