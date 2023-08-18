@@ -10,7 +10,7 @@ const Features = () => {
             <div className="mb-6 flex h-24 items-center justify-center">
               <img src="/icon-access-anywhere.svg" alt="access anywhere" />
             </div>
-            <h3 className="text-xl font-bold">Access your files, anywhere</h3>
+            <h2 className="text-xl font-bold">Access your files, anywhere</h2>
             <p className="max-w-md">
               The ability to use a smartphone, tablet, or computer to access your account means your files follow you
               everywhere.
@@ -21,7 +21,7 @@ const Features = () => {
             <div className="mb-6 flex h-24 items-center justify-center">
               <img src="/icon-security.svg" alt="access anywhere" />
             </div>
-            <h3 className="text-xl font-bold">Security you can trust</h3>
+            <h2 className="text-xl font-bold">Security you can trust</h2>
             <p className="max-w-md">
               2-factor authentication and user-controlled encryption are just a couple of the security features we allow
               to help secure your files.
@@ -35,7 +35,7 @@ const Features = () => {
             <div className="mb-6 flex h-24 items-center justify-center">
               <img src="/icon-collaboration.svg" alt="access anywhere" />
             </div>
-            <h3 className="text-xl font-bold">Real-time collaboration</h3>
+            <h2 className="text-xl font-bold">Real-time collaboration</h2>
             <p className="max-w-md">
               Securely share files and folders with friends, family and colleagues for live collaboration. No email
               attachments required.
@@ -46,7 +46,7 @@ const Features = () => {
             <div className="mb-6 flex h-24 items-center justify-center">
               <img src="/icon-any-file.svg" alt="access anywhere" />
             </div>
-            <h3 className="text-xl font-bold">Store any type of file</h3>
+            <h2 className="text-xl font-bold">Store any type of file</h2>
             <p className="max-w-md">
               Whether you're sharing holidays photos or work documents, Fylo has you covered allowing for all file types
               to be securely stored and shared.
