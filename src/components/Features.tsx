@@ -1,6 +1,6 @@
 const Features = () => {
   return (
-    <section id="features" className="bg-gray-50 pt-12 dark:bg-darkBlue1">
+    <section id="features" className="bg-gray-50 dark:bg-darkBlue1">
       {/* Features Container */}
       <div className="container mx-auto px-6 pb-32">
         {/* First Row */}

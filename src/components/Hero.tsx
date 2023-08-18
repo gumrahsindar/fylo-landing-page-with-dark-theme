@@ -13,7 +13,7 @@ const Hero = () => {
           Fylo stoes all your most important files in one scure location. Access them wherever you need, share and
           collaborate with friends, famil and co-workers.
         </p>
-        <button className="w-52 rounded-full bg-gradient-to-l from-accentBlue to-accentCyan p-3 text-sm text-white duration-200 hover:scale-95">
+        <button className="w-52 rounded-full bg-gradient-to-l from-accentBlue to-accentCyan p-3 text-sm text-white duration-200 hover:scale-95 md:w-72 lg:text-lg">
           Get Started
         </button>
       </div>
