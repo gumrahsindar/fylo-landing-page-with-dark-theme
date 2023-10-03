@@ -42,10 +42,6 @@ This is a figma to code solution to the [Fylo dark theme landing page challenge 
 - [Next.js](https://nextjs.org/) - React framework
 - [Tailwind CSS](https://styled-components.com/) - For styles
 
-### What I learned
-
-In this project I learned how to implement dark mode option to Next JS.
-
 ## Author
 
 - LinkedIn - [Gümrah Sindar](https://www.linkedin.com/in/gumrahsindar/)
