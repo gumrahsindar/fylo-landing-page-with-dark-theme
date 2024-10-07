@@ -28,7 +28,7 @@ This is a figma to code solution to the [Fylo dark theme landing page challenge 
 
 ### Links
 
-- Live Site URL: [Vercel](fylo-landing-page-with-dark-theme-five.vercel.app)
+- Live Site URL: [Vercel](https://fylo-landing-page-with-dark-theme-five.vercel.app)
 
 ## My process
 
