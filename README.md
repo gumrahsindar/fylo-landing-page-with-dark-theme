@@ -1,4 +1,4 @@
-# Equalizer Landing Page
+# Fylo Website
 
 ## 🚀 Features
 
